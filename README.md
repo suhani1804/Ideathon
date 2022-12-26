@@ -6,6 +6,7 @@ Many lives could have been saved if emergency service could get accident informa
 
 
 Solution:-
+
 ->A device or feature to protect the people from the risk as soon as possible after occurrence of the accident. 
 ->System will detect the accident within the less time and convey the information to the nearest hospital and to rescue system after a few seconds.
 ->Hint-As per time all are using smartwatches so try to add the feature in the smartwatches.
